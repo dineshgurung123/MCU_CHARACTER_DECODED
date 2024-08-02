@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "real": "Tony Stark",
+      "alias": "Iron Man"
+    },
+    "abilities": ["Genius-level intellect", "Expert engineer", "Skilled martial artist", "Powered armor suit"],
+    "affiliation": "Avengers",
+    "description": "A wealthy businessman and genius inventor who uses a powered suit of armor to fight crime.",
+    "profile": {
+      "height": "1.85 m",
+      "weight": "102 kg",
+      "eyeColor": "Blue",
+      "hairColor": "Black"
+    },
+    "image": {
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbkdyryyVdixcazTdLN2HoO09qpwSMiRpBeA&s",
+      "full": "https://cdn.marvel.com/content/1x/ironman_2.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "real": "Steve Rogers",
+      "alias": "Captain America"
+    },
+    "abilities": ["Super soldier serum enhanced", "Peak human strength", "Agility and endurance", "Expert tactician", "Vibranium shield"],
+    "affiliation": "Avengers",
+    "description": "A super soldier who fights for justice and freedom, known for his indestructible shield.",
+    "profile": {
+      "height": "1.88 m",
+      "weight": "108 kg",
+      "eyeColor": "Blue",
+      "hairColor": "Blond"
+    },
+    "image": {
+      "thumbnail": "https://images.indianexpress.com/2021/01/chris-evans-captain-america-1200.jpg?w=414",
+      "full": "https://cdn.marvel.com/content/1x/capamerica_2.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "real": "Natasha Romanoff",
+      "alias": "Black Widow"
+    },
+    "abilities": ["Expert spy", "Martial artist", "Marksmanship", "Acrobatics", "Tactician"],
+    "affiliation": "Avengers",
+    "description": "A highly trained spy and former S.H.I.E.L.D. agent who fights alongside the Avengers.",
+    "profile": {
+      "height": "1.70 m",
+      "weight": "59 kg",
+      "eyeColor": "Green",
+      "hairColor": "Red"
+    },
+    "image": {
+      "thumbnail": "https://cdn.marvel.com/content/1x/blackwidow_1.jpg",
+      "full": "https://cdn.marvel.com/content/1x/blackwidow_2.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": {
+      "real": "Bruce Banner",
+      "alias": "Hulk"
+    },
+    "abilities": ["Superhuman strength", "Durability", "Regeneration", "Gamma radiation transformation"],
+    "affiliation": "Avengers",
+    "description": "A brilliant scientist who transforms into a powerful green-skinned giant when enraged.",
+    "profile": {
+      "height": "2.44 m (as Hulk)",
+      "weight": "635 kg (as Hulk)",
+      "eyeColor": "Green",
+      "hairColor": "Green"
+    },
+    "image": {
+      "thumbnail": "https://cdn.marvel.com/content/1x/hulk_1.jpg",
+      "full": "https://cdn.marvel.com/content/1x/hulk_2.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": {
+      "real": "Thor Odinson",
+      "alias": "Thor"
+    },
+    "abilities": ["Superhuman strength", "Durability", "Flight", "Control over lightning", "Wielding Mjolnir"],
+    "affiliation": "Avengers",
+    "description": "The Norse God of Thunder, known for his hammer Mjolnir and control over thunder and lightning.",
+    "profile": {
+      "height": "1.98 m",
+      "weight": "290 kg",
+      "eyeColor": "Blue",
+      "hairColor": "Blond"
+    },
+    "image": {
+      "thumbnail": "https://s.isanook.com/mv/0/ud/14/73049/sd.jpg?ip/crop/w670h402/q80/jpg",
+      "full": "https://cdn.marvel.com/content/1x/thor_2.jpg"
+    }
+  }
+]
